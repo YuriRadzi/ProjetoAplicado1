@@ -14,7 +14,7 @@ Este projeto tem como objetivo analisar a evolução do consumo de energia elét
 
 ## Equipe
 
-1. Felipe Israel dos Santos .............................. R.A.: 10729570
-2. Gabriel Henrique Titanegro Zanelatto .................. R.A.: 10730604
-3. Juliana de Oliveira Sato............................... R.A.: 10727587
-4. Yuri dos Santos Radziwill ............................. R.A.: 10730741
+1. Felipe Israel dos Santos (R.A.: 10729570)
+2. Gabriel Henrique Titanegro Zanelatto (R.A.: 10730604)
+3. Juliana de Oliveira Sato (R.A.: 10727587)
+4. Yuri dos Santos Radziwill (R.A.: 10730741)
